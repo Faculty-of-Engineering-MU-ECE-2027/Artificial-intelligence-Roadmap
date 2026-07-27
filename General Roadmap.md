@@ -53,3 +53,22 @@
                                Chatbots • Computer Vision • NLP • Robotics
 ```
 </div>
+
+```mermaid
+flowchart TD
+    A[Data Sources] --> B[Data Engineering]
+    B --> C[Clean & Organized Data]
+
+    C --> D[Data Analysis]
+    C --> E[Data Science]
+
+    D --> F[Business Insights]
+    E --> G[Predictive Models]
+
+    F --> H[Artificial Intelligence]
+    G --> H
+
+    H --> I[Machine Learning & Deep Learning]
+    I --> J[AI Development]
+    J --> K[Chatbots • Computer Vision • NLP • Robotics]
+```
