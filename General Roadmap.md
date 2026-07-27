@@ -2,7 +2,7 @@
 <h1>Here you will have the roadmap that divided into three levels, and each one has suggested courses.</h1>
 </div>
 
-
+<div align = "center">
 ## 🗺️ The AI Landscape
 
 ```text
@@ -33,3 +33,4 @@
                            │
           Chatbots • Computer Vision • NLP • Robotics
 ```
+</div>
