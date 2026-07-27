@@ -21,39 +21,7 @@
 📌 For Data Camp courses, the GitHub student pack gives 3 free months. [How to get it](youtube.com/watch?v=owO75M1Xv30&feature=youtu.be) || [Register Here](https://education.github.com/pack) 
 
 <div align = "center">
-  <h1>🗺️ The AI Landscape</h1>
-
-
-```text
-                                               Data Sources
-                                                    │
-                                                    ▼
-                                              Data Engineering
-                                                    │
-                                                    ▼
-                                     ┌─────────────────────────────┐
-                                     │      Clean & Organized      │
-                                     │          Data               │
-                                     └─────────────────────────────┘
-                                             │             │
-                                             ▼             ▼
-                                      Data Analysis    Data Science
-                                             │             │
-                                   Business Insights   Predictive Models
-                                             │             │
-                                             └──────┬──────┘
-                                                    ▼
-                                          Artificial Intelligence
-                                                    │
-                                    Machine Learning & Deep Learning
-                                                    │
-                                                    ▼
-                                               AI Development
-                                                    │
-                               Chatbots • Computer Vision • NLP • Robotics
-```
-</div>
-
+  
 ```mermaid
 flowchart TD
     A[Data Sources] --> B[Data Engineering]
@@ -72,3 +40,4 @@ flowchart TD
     I --> J[AI Development]
     J --> K[Chatbots • Computer Vision • NLP • Robotics]
 ```
+</div>
