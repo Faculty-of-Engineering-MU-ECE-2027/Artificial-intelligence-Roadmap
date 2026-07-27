@@ -7,6 +7,4 @@
 - Each level has the specific courses and resources you can access on them for free every time.
   
 # Contact Me :iphone:
-<a href="https://www.linkedin.com/company/YOUR_COMPANY/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
