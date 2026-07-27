@@ -3,7 +3,7 @@
 </div>
 
 <div align = "center">
-## 🗺️ The AI Landscape
+  <h1>🗺️ The AI Landscape</h1>
 
 ```text
                         Data Sources
