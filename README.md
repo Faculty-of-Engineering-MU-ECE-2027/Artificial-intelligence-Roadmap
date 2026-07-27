@@ -10,15 +10,15 @@
 
 <p align="center">
 
-<a href="https://facebook.com/YOUR_PAGE">
+<a href="https://www.facebook.com/mohamed.tarek.167262">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/1mohamed-tarek/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mohamed-Tarek10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
