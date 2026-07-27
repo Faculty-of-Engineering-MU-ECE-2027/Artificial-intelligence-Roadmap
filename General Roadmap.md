@@ -4,7 +4,9 @@
 
 <div align = "center">
   <h1>🗺️ The AI Landscape</h1>
-
+| |
+|:---:|
+|<prep>
 ```text
                         Data Sources
                               │
@@ -33,4 +35,5 @@
                            │
           Chatbots • Computer Vision • NLP • Robotics
 ```
+</prep>
 </div>
