@@ -1,1 +1,1 @@
-<div align = "center; font-size : 30px"> Artificial intelligence Roadmap</div> 
+<div align = "center"># Artificial intelligence Roadmap</div> 
